@@ -1,0 +1,49 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+### Beginning of Statement ###
+
+Subject: Privacy Policy
+Date: 2026/05/25
+
+Operator: Mason Tuckett mason@tuckett.dev
+
+Primary GPG fingerprint: 83A3 C07C 1C7D 8B6D 4A4A  781D 7155 6DFD B495 ACB7
+
+Public Key URL (Clearnet): https://blog.mtuckett.net/mtuckett.gpg 
+
+GitHub Key Mirror: https://github.com/mtuck25/mtuckett.gpg
+
+OpenPGP Key Mirror: https://keys.openpgp.org/vks/v1/by-fingerprint/83A3C07C1C7D8B6D4A4A781D71556DFDB495ACB7
+
+Clearnet Site(s) Covered by This Statement:
+
+https://blog.mtuckett.net
+https://cv.mtuckett.net
+https://lib.mtuckett.net
+
+Onion Site(s) Covered by This Statement:
+
+N/A
+N/A
+N/A
+
+Eepsite(s) Covered by This Statement:
+
+N/A
+N/A
+N/A
+
+! Privacy Statement !
+I, the undersigned, assert that all hidden service addresses listed above are official mirrors of their respective clearnet sites, fully operated by me.
+Additionally, access/error logging occurs on all operated sites; there are no input fields or analytics to derive PII. 
+Any future alterations to this privacy policy will be announced in a new statement signed by the same primary key (or its designated successor key) and published on all applicable mirrors.
+
+### End of Statement ###
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSDo8B8HH2LbUpKeB1xVW39tJWstwUCahSiKwAKCRBxVW39tJWs
+t39bAP9pIQTN3iYcLHlXH9xj+JrZ4xYXxGhf7bIb8Z6QkeCmvgEAu/vdKEgI/AuB
+Xe1kWGevk6Aq6TVpI11JzQ32R+blgA0=
+=AprM
+-----END PGP SIGNATURE-----
