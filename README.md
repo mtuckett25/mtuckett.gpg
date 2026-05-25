@@ -18,7 +18,8 @@ _(Begrudgingly using SHA2-512 due to interoperability concerns.)_
 ### Statement(s)
 
 - [Privacy Policy](https://blog.mtuckett.net/privacy-policy.txt)
-*(Mirror Authenticity)
+
+*(Mirror Authenticity)*
 
 ### SHA2-512 Checksums
 
